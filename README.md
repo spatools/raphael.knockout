@@ -48,3 +48,7 @@ rect.bind("y", vm.y);
 ```
 
 Let the magic work !
+
+## Example
+
+Working sample on [JsBin](http://jsbin.com/idowek/4).
